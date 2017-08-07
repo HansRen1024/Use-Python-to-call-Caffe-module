@@ -5,7 +5,6 @@ Created on Sun Jul 30 20:41:03 2017
 
 @author: hans
 
-http://www.cnblogs.com/denny402/p/5685909.html
 """
 
 import caffe
